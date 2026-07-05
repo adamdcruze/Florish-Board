@@ -27,3 +27,4 @@ Windows phone skin
     }
   ]
 }
+<img width="1728" height="1363" alt="IMG_20260705_052349" src="https://github.com/user-attachments/assets/31199d71-345e-4add-bfc5-b441b21c8e8d" />
